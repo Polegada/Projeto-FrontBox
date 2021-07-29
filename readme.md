@@ -1,4 +1,4 @@
-# Projeto Site [FrontBox]
+# Projeto Site FrontBox
 
 Veja [Aqui](https://projeto001-front-box-netlify.netlify.app/)
 
