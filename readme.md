@@ -14,13 +14,10 @@
 
 2. O que foi aprendido/praticado durante projeto?
 
-
     * o uso da metodologia BEM
     * o melhor uso das classes
     * o uso de uma movimentação mais suave da pagina usando apenas o CSS.
-    * o uso de um site para hospedar meus projetos gratuitamente.  
-
-  
+    * o uso de um site para hospedar meus projetos gratuitamente.   
 
 3. Foi feita alguma alteração do projeto original?
 
