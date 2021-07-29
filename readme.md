@@ -13,7 +13,7 @@
        * HTML
        * CSS Flexbox 
 
-2. O que foi aprendido/praticado durante projeto?
+2. O que foi aprendido/praticado durante o projeto?
 
     * o uso da metodologia BEM
     * o melhor uso das classes
