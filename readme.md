@@ -8,12 +8,12 @@
 
   Esse projeto foi feito baseado no tutorial do canal [Inkasa.dev](https://www.youtube.com/channel/UCPGJqGxkYfmxO77LCh2Vimw)
 
-1. Tecnologias usadas?.
+1. Tecnologias usadas:
   
        * HTML
        * CSS Flexbox 
 
-2. O que foi aprendido/praticado durante o projeto?
+2. O que foi aprendido/praticado durante o projeto:
 
     * o uso da metodologia BEM
     * o melhor uso das classes
